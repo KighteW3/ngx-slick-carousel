@@ -3,7 +3,7 @@
 [![npm version](https://badge.fury.io/js/ngx-slick-carousel.svg)](https://badge.fury.io/js/ngx-slick-carousel)
 [![Build Status](https://travis-ci.com/leo6104/ngx-slick-carousel.svg?branch=master)](https://travis-ci.com/leo6104/ngx-slick-carousel)
 
-1. Support Angular 17 (not compatible with <= 16, if you want, use 15.0.0 release)
+1. Support Angular 18 (not compatible with <= 16, if you want, use 15.0.0 release)
 2. Support Server side rendering
 3. Support Re-initialize case
 4. Fastest slick init/unslick implementation in Angular
